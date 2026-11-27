@@ -30,14 +30,14 @@
     <string name="steamvr_recovery_cancel">Keep open</string>
     <string name="steamvr_recovery_restarting">Resetting graphics and reopening SteamVR…</string>
     <string name="steamvr_recovery_failed">DroidDeck could not restart automatically. Close the app completely, then reopen it.</string>
-    <string name="app_name">DroidDeck</string>
-    <string name="steam_wall_label" translatable="false">DroidDeck Wall</string>
+    <string name="app_name">AndroDeck</string>
+    <string name="steam_wall_label" translatable="false">AndroDeck Wall</string>
     <string name="wall_settings_fps" translatable="false">Frame rate (fps)</string>
     <string name="wall_settings_match" translatable="false">Match screen</string>
     <string name="wall_settings_speed" translatable="false">Scroll speed</string>
     <string name="loading_first_run">First launch also downloads Proton Experimental (about 400 MB) and sets Steam up. After this it starts much faster.</string>
     <string-array name="loading_hints">
-        <item>DroidDeck downloads Steam in the background while you set up, so your first launch is quicker.</item>
+        <item>Download once, keep your Linux runtime and game files installed, and play again without downloading them every time.</item>
         <item>Your controller shows up to Steam as a Steam Deck controller. Switch it to a Steam Controller, DualShock 4, DualSense or Xbox 360 pad in the session settings; it applies next session.</item>
         <item>Hold Back on your controller to open Steam\'s Quick Access menu. Hold Back for Steam shortcuts must be on in the session settings.</item>
         <item>Background behavior decides what happens when you leave the app: Native readies Steam for sleep, Auto pauses it, Manual waits for Resume, Never keeps it running.</item>
